@@ -6,3 +6,5 @@ Mainly, for a product, we can find the list of ingredients, nutrition facts and 
 1) Define and clean the vocabulary of ingredients, do you find some mistakes ? How do you manage them ? Propose solutions to manage/identify errors.
 2) Based on nutrition facts and/or food categories, propose clustering approaches and a visualisation of some categories of products. Find outliers (a product very different from others of the same group). It exists products very similars in terms of nutrition facts but very different in terms of categories or ingredients ?
 3) Based on your expertize on this dataset, propose and describe a model (no code required) that would be interesting to enhance the OpenFoodFacts project.
+
+And the data set:https://fr.openfoodfacts.org/data
